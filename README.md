@@ -1,12 +1,12 @@
-**Ethers.js Example**
+# Ethers.js Example
 
 Whether you're a developer looking to integrate blockchain functionality into your applications or simply curious about interacting directly with smart contracts, this guide will give you the knowledge and tools you need to start interacting with Ethereum smart contracts effectively.
 
-**Interacting with Smart Contracts with Ethers.js**
+## Interacting with Smart Contracts with Ethers.js
 
 Ethers.js is one of the most popular Ethereum libraries to interact with Ethereum and other EVM-compatible blockchains. Let's learn how to interact with smart contracts directly with the Ethers.js library.
 
-**Setting Up the Project**
+## Setting Up the Project
 
 Step 1: Ensure Node.js is installed on your computer. If not, install it.
 
@@ -45,7 +45,7 @@ Open the `index.js` file and add the following code:
 
 This code snippet initializes a connection to an Ethereum smart contract using Ethers.js, setting up the stage for further interactions such as querying balances or initiating transactions through the smart contract's functions.
 
-**Running the Code**
+## Running the Code
 
 Run the command below to run the index-ethers.js file.
 
@@ -66,6 +66,6 @@ User's JTG balance in Wei: 999999479000000000000000000
 User's JTG balance in Ether: 999999479.0
 ```
 
-**More Details**
+## More Details
 
 For more details, visit: https://www.quicknode.com/guides/ethereum-development/smart-contracts/how-to-interact-with-smart-contracts
